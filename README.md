@@ -48,7 +48,7 @@
 
 ## Here is a Sample of my Code
 
-...
+```
 import random
 
 # Creating a Deck of Cards
@@ -81,4 +81,4 @@ def deal_card():
     card = random.choice(deck)
     deck.remove(card)
     return card
-...
+```
