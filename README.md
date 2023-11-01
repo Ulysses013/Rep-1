@@ -45,3 +45,40 @@
 * Allow the player to place bets and adjust the balance after each game.
 * Display the player's statistics and results for each game.
 * Provide a simple menu for the player to choose between games.
+
+## Here is a Sample of my Code
+
+...
+import random
+
+# Creating a Deck of Cards
+suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
+ranks = ['Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Jack', 'Queen', 'King', 'Ace']
+deck = [{'rank': rank, 'suit': suit} for rank in ranks for suit in suits]
+deck
+
+# Creating a Function to calculate the value of a hand
+def hand_value(hand):
+    value = 0
+    num_aces = 0
+    for card in hand:
+        rank = card['rank']
+        if rank in ['Jack', 'Queen', 'King']:
+            value += 10
+        elif rank == 'Ace':
+            num_aces += 1
+            value += 11
+        else:
+            value += int(rank)
+    while num_aces > 0 and value > 21:
+        value -= 10
+        num_aces -= 1
+
+    return value
+
+# # Function to deal a card
+def deal_card():
+    card = random.choice(deck)
+    deck.remove(card)
+    return card
+...
