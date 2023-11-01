@@ -76,7 +76,7 @@ def hand_value(hand):
 
     return value
 
-# # Function to deal a card
+# #Creating a Function to deal a card
 def deal_card():
     card = random.choice(deck)
     deck.remove(card)
