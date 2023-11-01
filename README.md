@@ -39,7 +39,7 @@
 * Implement the spinning animation of the reels.
 * Randomly generate the results and calculate the player's winnings based on the winning combinations.
 
-##Features I would like to Implement:
+## Features I would like to Implement:
 
 * Implement a virtual wallet or balance for the player to track their money.
 * Allow the player to place bets and adjust the balance after each game.
