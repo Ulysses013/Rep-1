@@ -34,7 +34,7 @@
 
 #### Coding Process:
 
-* Design a graphical user interface (GUI) for the slot machine.
+* Design a GUI for the slot machine.
 * Create a set of symbols and define winning combinations and payouts.
 * Implement the spinning animation of the reels.
 * Randomly generate the results and calculate the player's winnings based on the winning combinations.
