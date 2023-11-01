@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-#####Hello! For the semester project, I am developing a small-scale **Virtual Casino** game in Python that offers three classic casino games: Blackjack, Roulette, and a Slot Machine. This project will not include a multiplayer platform and will be designed for a single player. This project is the first time I will be creating a GUI in my code. I had previously once coded a simple BlackJack game from which I am taking inspiration for this project. I am still looking over the necessary libraries and frameworks for this project and implementing a GUI.
+##### Hello! For the semester project, I am developing a small-scale **Virtual Casino** game in Python that offers three classic casino games: Blackjack, Roulette, and a Slot Machine. This project will not include a multiplayer platform and will be designed for a single player. This project is the first time I will be creating a GUI in my code. I had previously once coded a simple BlackJack game from which I am taking inspiration for this project. I am still looking over the necessary libraries and frameworks for this project and implementing a GUI.
 
 ## Code Overview:
 
