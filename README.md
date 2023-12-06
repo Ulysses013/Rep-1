@@ -186,4 +186,32 @@ while running:
 * Allow the player to place bets and adjust the balance after each game.
 * Display the player's statistics and results for each game.
 
+## Requirements Engineering
+
+### Requirements:
+#### Requirement 1: Game Initialization
+- **Description:** The game should initialize with a standard deck of cards and allow players to start a new round.
+
+#### Requirement 2: Player Actions
+- **Description:** Players should be able to make actions such as placing bets, hitting, and standing during their turn.
+
+#### Requirement 3: Dealer Logic
+- **Description:** Implement the logic for the dealer's turn, including hitting until a certain point and revealing cards at the end.
+
+#### Requirement 4: Score Calculation
+- **Description:** The game should accurately calculate and display the scores for both players and the dealer.
+
+#### Requirement 5: Game Outcome
+- **Description:** Determine and display the outcome of each round, including wins, losses, or ties.
+
+#### Requirement 6: User Interface
+- **Description:** Design a simple console-based user interface for a smooth gaming experience.
+
+#### Requirement 7: Game State Persistence
+- **Description:** Allow players to save and load game states for a continuous gaming experience.
+
+#### Requirement 8: Error Handling
+- **Description:** Implement error handling for invalid inputs and edge cases during the game.
+
+
 
