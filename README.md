@@ -188,8 +188,7 @@ while running:
 
 ## Requirements Engineering
 
-### Here are the Requirements (Also [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino
-) for my Trello Board :
+### Here are the Requirements (Also [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Trello Board :
 
 #### Requirement 1: Game Initialization
 - **Description:** The game should initialize with a standard deck of cards and allow players to start a new round.
