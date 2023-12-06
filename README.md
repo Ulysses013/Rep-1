@@ -1,4 +1,4 @@
-# Code Idea Description: Virtual Casino in Python
+# Software Development Project : Virtual Casino in Python
 
 ## Project Overview:
 
