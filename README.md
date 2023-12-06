@@ -216,11 +216,11 @@ while running:
 
 ## Build Management:
 
-###For my Blackjack game I am using 'setuptools' for packaging and distribution, and I am planning to use 'pytest' for testing, and integrating with a CICD service like Travis CI.
+### For my Blackjack game I am using 'setuptools' for packaging and distribution, and I am planning to use 'pytest' for testing, and integrating with a CICD service like Travis CI.
 
-###Setuptools for packaging
+### Setuptools for packaging
 
-####'setup.py'
+#### 'setup.py'
 
 ```
 from setuptools import setup, find_packages
