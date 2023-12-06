@@ -188,7 +188,7 @@ while running:
 
 ## Requirements Engineering
 
-### Here are the Requirements (Also [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Trello Board :
+### Here are the Requirements (Also [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Trello Board) :
 
 #### Requirement 1: Game Initialization
 - **Description:** The game should initialize with a standard deck of cards and allow players to start a new round.
@@ -214,5 +214,25 @@ while running:
 #### Requirement 8: Error Handling
 - **Description:** Implement error handling for invalid inputs and edge cases during the game.
 
+## Build Management:
+
+###For my Blackjack game I am using 'setuptools' for packaging and distribution, and I am planning to use 'pytest' for testing, and integrating with a CICD service like Travis CI.
+
+###Setuptools for packaging
+
+####'setup.py'
+
+```
+from setuptools import setup, find_packages
+
+setup(
+    name='blackjack_game',
+    version='0.1',
+    packages=find_packages(),
+    install_requires=[
+        # requirementsTBD
+    ],
+)
+```
 
 
