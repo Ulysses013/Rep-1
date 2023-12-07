@@ -208,10 +208,7 @@ while running:
 #### Requirement 6: User Interface
 - **Description:** Design a simple console-based user interface for a smooth gaming experience.
 
-#### Requirement 7: Game State Persistence
-- **Description:** Allow players to save and load game states for a continuous gaming experience.
-
-#### Requirement 8: Error Handling
+#### Requirement 7: Error Handling
 - **Description:** Implement error handling for invalid inputs and edge cases during the game.
 
 ## Build Management:
