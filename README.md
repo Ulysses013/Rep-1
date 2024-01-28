@@ -26,7 +26,8 @@
 
 ### Activity Diagram
 
-![Activity diagram](https://github.com/Ulysses013/Rep-1/assets/149133106/05d9f8dd-402d-4eab-9a2e-b18838246f8d)
+![Activity diagram](https://github.com/Ulysses013/Rep-1/assets/149133106/97154609-4195-45bd-871a-d4b9e1e2d529)
+
 
 ## Requirements Engineering
 [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Trello Board where I have mapped Non-Functional and User Interface Requirements
