@@ -30,7 +30,7 @@
 
 ## Requirements Engineering
 [click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Trello Board where I have mapped Non-Functional and User Interface Requirements
-[click here](https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino) for my Jira Board where I have mapped Functional Requirements
+[click here]([https://trello.com/invite/b/GzDiRVdF/ATTI030e1756a1fa6bd0dd8d32468b8bacbd9AB3D320/virtual-casino](https://arnoldjoseph1313.atlassian.net/jira/software/projects/KAN/boards/1)) for my Jira Board where I have mapped Functional Requirements
 
 ## Analysis of Python Blackjack Game using Pygame:
 
